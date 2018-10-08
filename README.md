@@ -20,10 +20,7 @@ npm v 6.4.1
 ## Usage
 `npm start`
 
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
 
-[tcnksm](https://github.com/MasahiroHanawa)
+[MasahiroHanawa](https://github.com/MasahiroHanawa)
