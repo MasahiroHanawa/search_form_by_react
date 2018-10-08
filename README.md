@@ -15,7 +15,7 @@ node.js v8.11.2
 npm v 6.4.1
 
 ## Install
-`npm start`
+`npm install`
 
 ## Usage
 `npm start`
